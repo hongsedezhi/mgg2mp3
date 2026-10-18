@@ -1,0 +1,10 @@
+# 界面
+PySide6-Essentials>=6.6
+
+# 借壳解密（注入 QQ 音乐进程，仅 Windows 需要）
+frida>=16
+
+# 音频解码 + MP3 编码（代替 ffmpeg）
+soundfile>=0.12
+lameenc>=1.7
+numpy>=1.24
